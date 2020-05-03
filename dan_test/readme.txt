@@ -59,4 +59,8 @@ asda
 asfsd
 >>>>>>> c871092... ç¬¬ä¸‰æ¬¡ç‰ˆæœ¬ä¸Šçº?
 
+<<<<<<< Updated upstream
 ½ô¼±ÐÞ¸´bug
+=======
+´´½¨dev·ÖÖ§
+>>>>>>> Stashed changes
